@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/dylanlott/.vim'
+let g:netrw_dirhist_2='/Users/dylanlott/.vim/bundle'
+let g:netrw_dirhist_3='/Users/dylanlott/.vim/bundle/vundle'
+let g:netrw_dirhist_4='/Users/dylanlott/.vim/bundle/vundle/.git'
+let g:netrw_dirhist_5='/Users/dylanlott/.vim/bundle/vundle'
+let g:netrw_dirhist_6='/Users/dylanlott/.vim/bundle'
+let g:netrw_dirhist_7='/Users/dylanlott/.vim/bundle/vundle'
